@@ -18,6 +18,17 @@ section:nth-child(odd) {
 
 }
 
+.bg-blu {
+    background-color: blue;
+    min-height: 100px;
+}
+
+.card {
+    background-color: #3B536D;
+    min-height: 200px;
+    max-width: 100%;
+}
+
 footer {
     background-color: #2C3E4F;
     min-height: 80px;

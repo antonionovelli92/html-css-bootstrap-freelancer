@@ -8,3 +8,22 @@ a {
     color: white;
     cursor: pointer;
 }
+
+section {
+    min-height: 400px;
+}
+
+section:nth-child(odd) {
+    background-color: #19BC9C;
+
+}
+
+footer {
+    background-color: #2C3E4F;
+    min-height: 80px;
+}
+
+#around {
+    background-color: #3B536D;
+    min-height: 200px;
+}

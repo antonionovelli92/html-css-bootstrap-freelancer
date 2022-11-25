@@ -1,6 +1,7 @@
-header {
+header {}
+
+.bg-my-primary {
     background-color: #2C3E4F;
-    min-height: 80px;
 }
 
 a {

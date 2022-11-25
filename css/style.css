@@ -8,6 +8,10 @@ header {}
     background-color: #19BC9C;
 }
 
+.text-my-green {
+    color: #19BC9C;
+}
+
 a {
     text-decoration: none;
     color: white;
@@ -15,7 +19,7 @@ a {
 }
 
 section {
-    min-height: 400px;
+    ;
 
 }
 
@@ -36,12 +40,12 @@ section:nth-child(odd) {
 
 footer {
     background-color: #2C3E4F;
-    min-height: 80px;
+
 }
 
 #around {
     background-color: #3B536D;
-    min-height: 200px;
+
 }
 
 #contact textarea {
@@ -51,4 +55,14 @@ footer {
 
 #contact ::placeholder {
     color: black;
+}
+
+
+
+#around i {
+    border: 1px white solid;
+    padding: 8px;
+    border-radius: 50%;
+    margin: auto 8px;
+    font-size: 15px;
 }
